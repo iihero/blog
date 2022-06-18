@@ -1,2 +1,1 @@
-# blog
-Blog of Sean
+# iihero's BLOG
