@@ -10,8 +10,8 @@
 
 * ## 归档目录:
 
-202206/20220702_02.md [PostgreSQL(11.x及以后)中Procedure和Function使用上的一些差别](202206/20220702_02.md)  
-202206/20220702_01.md [spring cloud中如何有效的设置reWriteBatchedInserts提高PG性能](202206/20220702_01.md)  
+202207/20220702_02.md [PostgreSQL(11.x及以后)中Procedure和Function使用上的一些差别](202207/20220702_02.md)  
+202207/20220702_01.md [spring cloud中如何有效的设置reWriteBatchedInserts提高PG性能](202207/20220702_01.md)  
 
 202206/20220626_01.md [Use Groovy to execute process and interact with input and output](202206/20220626_01.md)  
 
