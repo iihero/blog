@@ -10,6 +10,8 @@
 
 * ## 归档目录:
 
+202206/20220702_01.md [spring cloud中如何有效的设置reWriteBatchedInserts提高PG性能](202206/20220702_01.md)  
+
 202206/20220626_01.md [Use Groovy to execute process and interact with input and output](202206/20220626_01.md)  
 
 202206/20220621_01.md [How to cleanup database data via script in SAP ASE](202206/20220621_01.md)  
