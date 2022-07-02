@@ -2,7 +2,7 @@
 
 ## Self Introduction:
 
-本名Sean, 网名：iihero. 兴趣领域：数据库相关技术、敏捷开发、架构、安全及高性能编程、云计算。先后获DB2 DBA认证(2003年)，PostgreSQL DBA专家认证。同时也是陈式太极拳武术六段, 曾任北京市陈式太极拳研究会理事、副秘书长。iihero@qq.com  
+本名Sean, 网名：iihero. 兴趣领域：数据库相关技术、敏捷开发、架构、安全及高性能编程、云计算。先后获DB2 DBA认证(2003年)，PostgreSQL DBA专家认证。同时也是陈式太极拳武术六段, 曾任北京市陈式太极拳研究会理事、副秘书长。iihero@qq.com  hexiong@gmail.com
 
 出版过：Java 2网络协议内幕（译作），oracle及oci高级编程 图书一本，Sybase ASE 数据库 In Action 图书一本
 
