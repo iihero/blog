@@ -10,7 +10,7 @@
 
 * ## 归档目录:
 
-
+202210/20221017_01.md [PostgreSQL 15.0 版本新特性及变化汇总](202210/20221017_01.md)
 
 202208/20220804_02.md [Asynchronous and "direct" IO support for PostgreSQL](202208/20220804_02.md)   
 202208/20220804_01.md [PostgreSQL FDW (Foreign Data Wrapper)的使用介绍](202208/20220804_01.md)  

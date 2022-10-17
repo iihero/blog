@@ -35,7 +35,6 @@ public class SQLInjection {
 		System.out.println("Need use prepared statment to aovid injection");
 		String user = "sean";
 		String pwd = "wrong_pwd";
-		String injected_user = "sean' OR '1'='1";
 		String sql = "SELECT * FROM  test WHERE username=? AND password=?";
 		try (PreparedStatement pstmt = conn.prepareStatement(sql);) {
 
